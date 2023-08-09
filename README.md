@@ -45,4 +45,4 @@
 
 [telegram]: https://t.me/AZ_Akmalov
 [mail]: akmalovaziz844@gmail.com
-[linkedin]: www.linkedin.com/in/aziz-akmalov-2a485a267
+[linkedin]: https://www.linkedin.com/in/aziz-akmalov-2a485a267
